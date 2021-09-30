@@ -50,6 +50,7 @@
         
         .dashmenu img{
             margin-bottom: 50px;
+            width:75%;
         }
             
         .dashinfo {
@@ -129,7 +130,6 @@
                     <img src="images/logo.png" alt="Wedding logo">
                     <a href="dashboard.php"><b>Početna</b></a>
                     <a href="products.php">Proizvodi</a>
-                    <a href="#">Narudžbe</a>
                     <a href="logout.php">Odjava</a>
             </div> 
         </div>
