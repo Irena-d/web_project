@@ -126,7 +126,7 @@
     <div class="container">
         <div class="col-sm-3">
             <div class="dashmenu">
-                    <img src="imgs/logo.png" alt="Čvarci logo">
+                    <img src="images/logo.png" alt="Wedding logo">
                     <a href="dashboard.php"><b>Početna</b></a>
                     <a href="products.php">Proizvodi</a>
                     <a href="#">Narudžbe</a>
